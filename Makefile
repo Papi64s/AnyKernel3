@@ -1,4 +1,4 @@
-NAME ?= Genom-Magic
+NAME ?= SiLonT
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
