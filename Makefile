@@ -1,4 +1,4 @@
-NAME ?= JFLA-AOSP
+NAME ?= SiLonT-MIUI
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
