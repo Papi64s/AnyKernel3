@@ -1,4 +1,4 @@
-NAME ?= SiLonT
+NAME ?= JFla
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 

@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-#kernel.string=BrynKernel By BryanHafidz
+#kernel.string=JFla-Kernel By DirtyGEN
 do.devicecheck=1
 do.modules=0
 do.systemless=1
