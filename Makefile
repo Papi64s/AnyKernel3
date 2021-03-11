@@ -1,8 +1,8 @@
-NAME ?= JFla
+NAME ?= JFla-Karamel
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := Kernel-Onclite
+CODE := Onclite
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
