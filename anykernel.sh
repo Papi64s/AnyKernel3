@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-#kernel.string=JFla-Kernel By #PapiLer
+#kernel.string=KARA By #PapiLer
 do.devicecheck=1
 do.modules=0
 do.systemless=1
