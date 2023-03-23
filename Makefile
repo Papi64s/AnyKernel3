@@ -1,4 +1,4 @@
-NAME ?= JFla-Karamel
+NAME ?= KARA
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
